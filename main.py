@@ -1,3 +1,6 @@
+!sudo update-alternatives --config python3
+!sudo apt install python3-pip
+
 import os
 import tensorflow as tf
 import numpy as np
